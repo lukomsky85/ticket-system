@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
-[![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777BB3.svg)](https://php.net/)
+[![PHP Version](https://img.shields.io/badge/PHP-7.2%2B-777BB3.svg)](https://php.net/)
 
 ## 📌 Оглавление
 - [Описание](#-описание)
