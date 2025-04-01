@@ -56,9 +56,8 @@
 ---
 
 ## 💻 Технологии
-- **Backend**: PHP 8.2, MySQL
+- **Backend**: PHP 7.2
 - **Telegram Bot**: [Telegram Bot API](https://core.telegram.org/bots/api)
-- **Веб-интерфейс**: Bootstrap 5, jQuery
 - **Логирование**: Monolog (если используется)
 - **Деплой**: Docker (опционально)
 
