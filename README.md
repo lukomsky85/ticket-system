@@ -59,5 +59,5 @@
 ## ⚙️ Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/ticket-system.git
+   git clone https://github.com/lukomsky85/ticket-system.git
    cd ticket-system
